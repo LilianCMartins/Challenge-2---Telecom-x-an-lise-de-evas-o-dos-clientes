@@ -39,13 +39,16 @@ A matriz de correlação entre as variáveis numéricas revela relações import
 - **`charges_monthly` e `charges_total`**: correlação de 0.65, indicando que o valor mensal está fortemente relacionado ao total cobrado.
 - **`charges_monthly` e `contas_diarias`**: correlação de 0.99, sugerindo que o número de contas diárias impacta diretamente na cobrança mensal.
 
-- 
-**Linguagem**: Python
+
+  **Linguagem**: Python
 - **Ambiente**: Jupyter Notebook
 - **Bibliotecas**:
 - `pandas`: manipulação de dados.
 - `matplotlib` e `seaborn`: visualização de dados.
 - `scikit-learn`: construção e avaliação de modelos de machine learning.
+
+## Arquivo Principal
+Desafio_2_Telecom_x_análise_de_evasão_dos_clientes.ipynb
 
 ## Ambientes Recomendados
 - Google Colab (sem necessidade de instalação local)
